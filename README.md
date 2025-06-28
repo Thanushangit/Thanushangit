@@ -27,7 +27,7 @@
 
   <!-- Personal Website -->
   <a href="https://thanushan-dev.vercel.app/" target="_blank">
-    <img align="center" src="[https://img.icons8.com/ios-filled/50/000000/domain.png](https://static.vecteezy.com/system/resources/thumbnails/036/004/783/small_2x/website-logo-searching-illustration-free-png.png)" alt="Personal Website" height="30" width="40" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/036/004/783/small_2x/website-logo-searching-illustration-free-png.png" alt="Personal Website" height="30" width="40" />
   </a>
 </p>
 
