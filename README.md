@@ -1,4 +1,4 @@
-<img align="center" alt="welcome" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif">
+<img align="center" alt="welcome" width="80%"  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1756944000&v=beta&t=zzXW36Sb3Hzen2fiT_uB58imf-eKItOSBJHZLM24hTc">
 <h1 align="center">Hi 👋, I'm Sinnarasa Thanushan</h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
