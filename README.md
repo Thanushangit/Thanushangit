@@ -43,3 +43,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanushangit&show_icons=true&locale=en" alt="thanushangit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanushangit&" alt="thanushan" /></p>
+
+## Contribution Graph (Last 30 Days)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thanushangit&theme=dracula&area=true&hide_border=true)
+
+
+
+
