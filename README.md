@@ -61,5 +61,9 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thanushangit&theme=dracula&area=true&hide_border=true)
 
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanushangit&theme=tokyonight" alt="GitHub Profile Summary"/>
+
+
+
 
 
